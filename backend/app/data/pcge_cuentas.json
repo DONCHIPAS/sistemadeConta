@@ -1,0 +1,1815 @@
+﻿[
+  {
+    "codigo": "10",
+    "nombre": "Efectivo y equivalentes de efectivo",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "cuenta"
+  },
+  {
+    "codigo": "101",
+    "nombre": "Caja",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "102",
+    "nombre": "Fondos fijos",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "103",
+    "nombre": "Efectivo en trÃ¡nsito",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "104",
+    "nombre": "Cuentas corrientes en instituciones financieras",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "1041",
+    "nombre": "Cuentas corrientes operativas",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "10411",
+    "nombre": "Banco de CrÃ©dito del PerÃº (BCP)",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "subdivisionaria"
+  },
+  {
+    "codigo": "10412",
+    "nombre": "Banco BBVA",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "subdivisionaria"
+  },
+  {
+    "codigo": "10413",
+    "nombre": "Interbank",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "subdivisionaria"
+  },
+  {
+    "codigo": "10414",
+    "nombre": "Scotiabank",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "subdivisionaria"
+  },
+  {
+    "codigo": "1042",
+    "nombre": "Cuentas corrientes para fines especÃ­ficos",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "105",
+    "nombre": "Otros equivalentes de efectivo",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "107",
+    "nombre": "Fondos sujetos a restricciÃ³n",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "12",
+    "nombre": "Cuentas por cobrar comerciales - Terceros",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "cuenta"
+  },
+  {
+    "codigo": "121",
+    "nombre": "Facturas, boletas y otros comprobantes por cobrar",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "1211",
+    "nombre": "No emitidas",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "1212",
+    "nombre": "Emitidas en cartera",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "1213",
+    "nombre": "En cobranza",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "1214",
+    "nombre": "En descuento",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "122",
+    "nombre": "Anticipos de clientes",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "123",
+    "nombre": "Letras por cobrar",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "1231",
+    "nombre": "En cartera",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "1232",
+    "nombre": "En cobranza",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "1233",
+    "nombre": "En descuento",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "13",
+    "nombre": "Cuentas por cobrar comerciales - Relacionadas",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "cuenta"
+  },
+  {
+    "codigo": "131",
+    "nombre": "Facturas, boletas y otros comprobantes por cobrar",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "1312",
+    "nombre": "Emitidas en cartera",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "132",
+    "nombre": "Anticipos de clientes",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "14",
+    "nombre": "Cuentas por cobrar al personal, a los accionistas (socios) y directores",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "cuenta"
+  },
+  {
+    "codigo": "141",
+    "nombre": "Personal",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "1411",
+    "nombre": "PrÃ©stamos",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "1412",
+    "nombre": "Adelanto de remuneraciones",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "1419",
+    "nombre": "Otras cuentas por cobrar al personal",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "142",
+    "nombre": "Accionistas (o socios)",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "1421",
+    "nombre": "Suscripciones por cobrar a socios o accionistas",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "1422",
+    "nombre": "PrÃ©stamos",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "143",
+    "nombre": "Directores",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "16",
+    "nombre": "Cuentas por cobrar diversas - Terceros",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "cuenta"
+  },
+  {
+    "codigo": "161",
+    "nombre": "PrÃ©stamos",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "1611",
+    "nombre": "Con garantÃ­a",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "1612",
+    "nombre": "Sin garantÃ­a",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "162",
+    "nombre": "Reclamaciones a terceros",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "164",
+    "nombre": "DepÃ³sitos otorgados en garantÃ­a",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "169",
+    "nombre": "Otras cuentas por cobrar diversas",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "18",
+    "nombre": "Servicios y otros contratos pagados por anticipado",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "cuenta"
+  },
+  {
+    "codigo": "181",
+    "nombre": "Intereses",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "182",
+    "nombre": "Seguros",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "183",
+    "nombre": "Alquileres",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "189",
+    "nombre": "Otros servicios y contratos pagados por anticipado",
+    "tipo_saldo": "deudor",
+    "elemento": 1,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "19",
+    "nombre": "EstimaciÃ³n de cuentas de cobranza dudosa",
+    "tipo_saldo": "acreedor",
+    "elemento": 1,
+    "categoria": "cuenta"
+  },
+  {
+    "codigo": "191",
+    "nombre": "Cuentas por cobrar comerciales - Terceros",
+    "tipo_saldo": "acreedor",
+    "elemento": 1,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "1911",
+    "nombre": "Facturas, boletas y otros comprobantes por cobrar",
+    "tipo_saldo": "acreedor",
+    "elemento": 1,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "193",
+    "nombre": "Cuentas por cobrar comerciales - Relacionadas",
+    "tipo_saldo": "acreedor",
+    "elemento": 1,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "20",
+    "nombre": "MercaderÃ­as",
+    "tipo_saldo": "deudor",
+    "elemento": 2,
+    "categoria": "cuenta"
+  },
+  {
+    "codigo": "201",
+    "nombre": "MercaderÃ­as",
+    "tipo_saldo": "deudor",
+    "elemento": 2,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "2011",
+    "nombre": "MercaderÃ­as",
+    "tipo_saldo": "deudor",
+    "elemento": 2,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "20111",
+    "nombre": "Costo",
+    "tipo_saldo": "deudor",
+    "elemento": 2,
+    "categoria": "subdivisionaria"
+  },
+  {
+    "codigo": "21",
+    "nombre": "Productos terminados",
+    "tipo_saldo": "deudor",
+    "elemento": 2,
+    "categoria": "cuenta"
+  },
+  {
+    "codigo": "211",
+    "nombre": "Productos manufacturados",
+    "tipo_saldo": "deudor",
+    "elemento": 2,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "2111",
+    "nombre": "Costo",
+    "tipo_saldo": "deudor",
+    "elemento": 2,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "23",
+    "nombre": "Productos en proceso",
+    "tipo_saldo": "deudor",
+    "elemento": 2,
+    "categoria": "cuenta"
+  },
+  {
+    "codigo": "231",
+    "nombre": "Productos en proceso de manufactura",
+    "tipo_saldo": "deudor",
+    "elemento": 2,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "24",
+    "nombre": "Materias primas",
+    "tipo_saldo": "deudor",
+    "elemento": 2,
+    "categoria": "cuenta"
+  },
+  {
+    "codigo": "241",
+    "nombre": "Materias primas",
+    "tipo_saldo": "deudor",
+    "elemento": 2,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "2411",
+    "nombre": "Costo",
+    "tipo_saldo": "deudor",
+    "elemento": 2,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "25",
+    "nombre": "Materiales auxiliares, suministros y repuestos",
+    "tipo_saldo": "deudor",
+    "elemento": 2,
+    "categoria": "cuenta"
+  },
+  {
+    "codigo": "251",
+    "nombre": "Materiales auxiliares",
+    "tipo_saldo": "deudor",
+    "elemento": 2,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "252",
+    "nombre": "Suministros",
+    "tipo_saldo": "deudor",
+    "elemento": 2,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "2524",
+    "nombre": "Otros suministros (Ãºtiles, combustible, etc.)",
+    "tipo_saldo": "deudor",
+    "elemento": 2,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "29",
+    "nombre": "DesvalorizaciÃ³n de inventarios",
+    "tipo_saldo": "acreedor",
+    "elemento": 2,
+    "categoria": "cuenta"
+  },
+  {
+    "codigo": "291",
+    "nombre": "MercaderÃ­as",
+    "tipo_saldo": "acreedor",
+    "elemento": 2,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "30",
+    "nombre": "Inversiones mobiliarias",
+    "tipo_saldo": "deudor",
+    "elemento": 3,
+    "categoria": "cuenta"
+  },
+  {
+    "codigo": "31",
+    "nombre": "Propiedades de inversiÃ³n",
+    "tipo_saldo": "deudor",
+    "elemento": 3,
+    "categoria": "cuenta"
+  },
+  {
+    "codigo": "33",
+    "nombre": "Propiedad, planta y equipo",
+    "tipo_saldo": "deudor",
+    "elemento": 3,
+    "categoria": "cuenta"
+  },
+  {
+    "codigo": "331",
+    "nombre": "Terrenos",
+    "tipo_saldo": "deudor",
+    "elemento": 3,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "3311",
+    "nombre": "Terrenos",
+    "tipo_saldo": "deudor",
+    "elemento": 3,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "33111",
+    "nombre": "Costo",
+    "tipo_saldo": "deudor",
+    "elemento": 3,
+    "categoria": "subdivisionaria"
+  },
+  {
+    "codigo": "332",
+    "nombre": "Edificaciones",
+    "tipo_saldo": "deudor",
+    "elemento": 3,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "3321",
+    "nombre": "Edificaciones administrativas",
+    "tipo_saldo": "deudor",
+    "elemento": 3,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "3324",
+    "nombre": "Instalaciones",
+    "tipo_saldo": "deudor",
+    "elemento": 3,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "333",
+    "nombre": "Maquinarias y equipos de explotaciÃ³n",
+    "tipo_saldo": "deudor",
+    "elemento": 3,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "3331",
+    "nombre": "Maquinarias y equipos de explotaciÃ³n",
+    "tipo_saldo": "deudor",
+    "elemento": 3,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "33311",
+    "nombre": "Costo",
+    "tipo_saldo": "deudor",
+    "elemento": 3,
+    "categoria": "subdivisionaria"
+  },
+  {
+    "codigo": "334",
+    "nombre": "Unidades de transporte",
+    "tipo_saldo": "deudor",
+    "elemento": 3,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "3341",
+    "nombre": "VehÃ­culos motorizados",
+    "tipo_saldo": "deudor",
+    "elemento": 3,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "33411",
+    "nombre": "Costo",
+    "tipo_saldo": "deudor",
+    "elemento": 3,
+    "categoria": "subdivisionaria"
+  },
+  {
+    "codigo": "335",
+    "nombre": "Muebles y enseres",
+    "tipo_saldo": "deudor",
+    "elemento": 3,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "3351",
+    "nombre": "Muebles y enseres",
+    "tipo_saldo": "deudor",
+    "elemento": 3,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "33511",
+    "nombre": "Costo",
+    "tipo_saldo": "deudor",
+    "elemento": 3,
+    "categoria": "subdivisionaria"
+  },
+  {
+    "codigo": "336",
+    "nombre": "Equipos diversos",
+    "tipo_saldo": "deudor",
+    "elemento": 3,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "3361",
+    "nombre": "Equipos para procesamiento de datos (cÃ³mputo)",
+    "tipo_saldo": "deudor",
+    "elemento": 3,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "33611",
+    "nombre": "Costo",
+    "tipo_saldo": "deudor",
+    "elemento": 3,
+    "categoria": "subdivisionaria"
+  },
+  {
+    "codigo": "34",
+    "nombre": "Activos intangibles",
+    "tipo_saldo": "deudor",
+    "elemento": 3,
+    "categoria": "cuenta"
+  },
+  {
+    "codigo": "341",
+    "nombre": "Concesiones, licencias y otros derechos",
+    "tipo_saldo": "deudor",
+    "elemento": 3,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "342",
+    "nombre": "Patentes y propiedad industrial",
+    "tipo_saldo": "deudor",
+    "elemento": 3,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "343",
+    "nombre": "Programas de computadora (software)",
+    "tipo_saldo": "deudor",
+    "elemento": 3,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "3431",
+    "nombre": "Aplicaciones informÃ¡ticas",
+    "tipo_saldo": "deudor",
+    "elemento": 3,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "34311",
+    "nombre": "Costo",
+    "tipo_saldo": "deudor",
+    "elemento": 3,
+    "categoria": "subdivisionaria"
+  },
+  {
+    "codigo": "39",
+    "nombre": "DepreciaciÃ³n y amortizaciÃ³n acumulados",
+    "tipo_saldo": "acreedor",
+    "elemento": 3,
+    "categoria": "cuenta"
+  },
+  {
+    "codigo": "391",
+    "nombre": "DepreciaciÃ³n acumulada - Propiedad, planta y equipo",
+    "tipo_saldo": "acreedor",
+    "elemento": 3,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "3913",
+    "nombre": "Propiedad, planta y equipo - Costo",
+    "tipo_saldo": "acreedor",
+    "elemento": 3,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "39131",
+    "nombre": "Edificaciones",
+    "tipo_saldo": "acreedor",
+    "elemento": 3,
+    "categoria": "subdivisionaria"
+  },
+  {
+    "codigo": "39132",
+    "nombre": "Maquinarias y equipos de explotaciÃ³n",
+    "tipo_saldo": "acreedor",
+    "elemento": 3,
+    "categoria": "subdivisionaria"
+  },
+  {
+    "codigo": "39133",
+    "nombre": "Unidades de transporte",
+    "tipo_saldo": "acreedor",
+    "elemento": 3,
+    "categoria": "subdivisionaria"
+  },
+  {
+    "codigo": "39134",
+    "nombre": "Muebles y enseres",
+    "tipo_saldo": "acreedor",
+    "elemento": 3,
+    "categoria": "subdivisionaria"
+  },
+  {
+    "codigo": "39135",
+    "nombre": "Equipos diversos",
+    "tipo_saldo": "acreedor",
+    "elemento": 3,
+    "categoria": "subdivisionaria"
+  },
+  {
+    "codigo": "392",
+    "nombre": "AmortizaciÃ³n acumulada - Activos intangibles",
+    "tipo_saldo": "acreedor",
+    "elemento": 3,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "3921",
+    "nombre": "AmortizaciÃ³n acumulada - Costo",
+    "tipo_saldo": "acreedor",
+    "elemento": 3,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "39213",
+    "nombre": "Programas de computadora (software)",
+    "tipo_saldo": "acreedor",
+    "elemento": 3,
+    "categoria": "subdivisionaria"
+  },
+  {
+    "codigo": "40",
+    "nombre": "Tributos, contraprestaciones y aportes al sistema metropolitano de pensiones y de salud por pagar",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "cuenta"
+  },
+  {
+    "codigo": "401",
+    "nombre": "Gobierno nacional",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "4011",
+    "nombre": "Impuesto general a las ventas (IGV)",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "40111",
+    "nombre": "IGV - Cuenta propia",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "subdivisionaria"
+  },
+  {
+    "codigo": "40112",
+    "nombre": "IGV - Con IGV Justo",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "subdivisionaria"
+  },
+  {
+    "codigo": "40113",
+    "nombre": "IGV - RÃ©gimen de retenciones",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "subdivisionaria"
+  },
+  {
+    "codigo": "40114",
+    "nombre": "IGV - RÃ©gimen de percepciones",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "subdivisionaria"
+  },
+  {
+    "codigo": "4017",
+    "nombre": "Impuesto a la renta",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "40171",
+    "nombre": "Renta de tercera categorÃ­a",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "subdivisionaria"
+  },
+  {
+    "codigo": "40172",
+    "nombre": "Renta de cuarta categorÃ­a",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "subdivisionaria"
+  },
+  {
+    "codigo": "40173",
+    "nombre": "Renta de quinta categorÃ­a",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "subdivisionaria"
+  },
+  {
+    "codigo": "40174",
+    "nombre": "Renta de no domiciliados",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "subdivisionaria"
+  },
+  {
+    "codigo": "4018",
+    "nombre": "Otros impuestos y tasas",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "40189",
+    "nombre": "Otros impuestos y tasas por pagar",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "subdivisionaria"
+  },
+  {
+    "codigo": "403",
+    "nombre": "Instituciones pÃºblicas",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "4031",
+    "nombre": "EsSalud",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "4032",
+    "nombre": "ONP",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "405",
+    "nombre": "Gobiernos locales",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "4051",
+    "nombre": "Arbitrios",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "4052",
+    "nombre": "Impuesto predial",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "406",
+    "nombre": "Administradoras de fondos de pensiones (AFP)",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "4061",
+    "nombre": "Aportes obligatorios",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "4062",
+    "nombre": "Aportes voluntarios",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "41",
+    "nombre": "Remuneraciones y participaciones por pagar",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "cuenta"
+  },
+  {
+    "codigo": "411",
+    "nombre": "Remuneraciones por pagar",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "4111",
+    "nombre": "Sueldos y salarios por pagar",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "4112",
+    "nombre": "Comisiones por pagar",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "413",
+    "nombre": "Participaciones de los trabajadores por pagar",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "415",
+    "nombre": "Beneficios sociales de los trabajadores por pagar",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "4151",
+    "nombre": "CompensaciÃ³n por tiempo de servicios (CTS)",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "4152",
+    "nombre": "Gratificaciones",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "4153",
+    "nombre": "Vacaciones",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "42",
+    "nombre": "Cuentas por pagar comerciales - Terceros",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "cuenta"
+  },
+  {
+    "codigo": "421",
+    "nombre": "Facturas, boletas y otros comprobantes por pagar",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "4211",
+    "nombre": "No emitidas (Provisiones)",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "4212",
+    "nombre": "Emitidas",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "422",
+    "nombre": "Anticipos de proveedores",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "423",
+    "nombre": "Letras por pagar",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "44",
+    "nombre": "Cuentas por pagar a los accionistas (socios), directores y gerentes",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "cuenta"
+  },
+  {
+    "codigo": "441",
+    "nombre": "Accionistas (o socios)",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "4411",
+    "nombre": "PrÃ©stamos",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "4412",
+    "nombre": "Dividendos",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "442",
+    "nombre": "Directores",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "443",
+    "nombre": "Gerentes",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "45",
+    "nombre": "Obligaciones financieras",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "cuenta"
+  },
+  {
+    "codigo": "451",
+    "nombre": "PrÃ©stamos de instituciones financieras",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "4511",
+    "nombre": "Instituciones financieras nacionales",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "452",
+    "nombre": "Contratos de arrendamiento financiero (Leasing)",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "46",
+    "nombre": "Cuentas por pagar diversas - Terceros",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "cuenta"
+  },
+  {
+    "codigo": "461",
+    "nombre": "Reclamaciones de terceros",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "464",
+    "nombre": "Pasivos por compra de activos inmovilizados",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "469",
+    "nombre": "Otras cuentas por pagar diversas",
+    "tipo_saldo": "acreedor",
+    "elemento": 4,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "50",
+    "nombre": "Capital",
+    "tipo_saldo": "acreedor",
+    "elemento": 5,
+    "categoria": "cuenta"
+  },
+  {
+    "codigo": "501",
+    "nombre": "Capital social",
+    "tipo_saldo": "acreedor",
+    "elemento": 5,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "5011",
+    "nombre": "Acciones",
+    "tipo_saldo": "acreedor",
+    "elemento": 5,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "5012",
+    "nombre": "Participaciones",
+    "tipo_saldo": "acreedor",
+    "elemento": 5,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "52",
+    "nombre": "Capital adicional",
+    "tipo_saldo": "acreedor",
+    "elemento": 5,
+    "categoria": "cuenta"
+  },
+  {
+    "codigo": "57",
+    "nombre": "Excedente de revaluaciÃ³n",
+    "tipo_saldo": "acreedor",
+    "elemento": 5,
+    "categoria": "cuenta"
+  },
+  {
+    "codigo": "58",
+    "nombre": "Reservas",
+    "tipo_saldo": "acreedor",
+    "elemento": 5,
+    "categoria": "cuenta"
+  },
+  {
+    "codigo": "582",
+    "nombre": "Reserva legal",
+    "tipo_saldo": "acreedor",
+    "elemento": 5,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "589",
+    "nombre": "Otras reservas",
+    "tipo_saldo": "acreedor",
+    "elemento": 5,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "59",
+    "nombre": "Resultados acumulados",
+    "tipo_saldo": "acreedor",
+    "elemento": 5,
+    "categoria": "cuenta"
+  },
+  {
+    "codigo": "591",
+    "nombre": "Utilidades acumuladas",
+    "tipo_saldo": "acreedor",
+    "elemento": 5,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "5911",
+    "nombre": "Utilidades no distribuidas",
+    "tipo_saldo": "acreedor",
+    "elemento": 5,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "5912",
+    "nombre": "Ingresos de aÃ±os anteriores",
+    "tipo_saldo": "acreedor",
+    "elemento": 5,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "592",
+    "nombre": "PÃ©rdidas acumuladas",
+    "tipo_saldo": "deudor",
+    "elemento": 5,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "5921",
+    "nombre": "PÃ©rdidas acumuladas",
+    "tipo_saldo": "deudor",
+    "elemento": 5,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "5922",
+    "nombre": "Gastos de aÃ±os anteriores",
+    "tipo_saldo": "deudor",
+    "elemento": 5,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "60",
+    "nombre": "Compras",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "cuenta"
+  },
+  {
+    "codigo": "601",
+    "nombre": "MercaderÃ­as",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "6011",
+    "nombre": "MercaderÃ­as",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "602",
+    "nombre": "Materias primas",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "603",
+    "nombre": "Materiales auxiliares, suministros y repuestos",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "609",
+    "nombre": "Costos vinculados con las compras",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "61",
+    "nombre": "VariaciÃ³n de inventarios",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "cuenta"
+  },
+  {
+    "codigo": "611",
+    "nombre": "MercaderÃ­as",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "612",
+    "nombre": "Materias primas",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "62",
+    "nombre": "Gastos de personal y directores",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "cuenta"
+  },
+  {
+    "codigo": "621",
+    "nombre": "Remuneraciones",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "6211",
+    "nombre": "Sueldos y salarios",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "6214",
+    "nombre": "Gratificaciones",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "6215",
+    "nombre": "Vacaciones",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "622",
+    "nombre": "Otras remuneraciones",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "627",
+    "nombre": "Seguridad, previsiÃ³n social y otras contribuciones",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "6271",
+    "nombre": "RÃ©gimen de prestaciones de salud (EsSalud)",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "6273",
+    "nombre": "Seguro de vida ley",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "629",
+    "nombre": "Beneficios sociales de los trabajadores",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "6291",
+    "nombre": "CompensaciÃ³n por tiempo de servicios (CTS)",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "63",
+    "nombre": "Gastos de servicios prestados por terceros",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "cuenta"
+  },
+  {
+    "codigo": "631",
+    "nombre": "Transporte, correos y mensajerÃ­a",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "6311",
+    "nombre": "Transporte",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "632",
+    "nombre": "AsesorÃ­a y consultorÃ­a",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "6321",
+    "nombre": "Administrativa",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "6322",
+    "nombre": "Legal y tributaria",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "6323",
+    "nombre": "AuditorÃ­a y contabilidad",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "634",
+    "nombre": "Mantenimiento y reparaciones",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "635",
+    "nombre": "Alquileres",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "6351",
+    "nombre": "Terrenos",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "6352",
+    "nombre": "Edificaciones",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "6353",
+    "nombre": "Maquinarias y equipos",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "6354",
+    "nombre": "Equipos de transporte",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "636",
+    "nombre": "Servicios bÃ¡sicos",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "6361",
+    "nombre": "EnergÃ­a elÃ©ctrica",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "6363",
+    "nombre": "Agua",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "6364",
+    "nombre": "TelÃ©fono",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "6365",
+    "nombre": "Internet",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "64",
+    "nombre": "Gastos por tributos",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "cuenta"
+  },
+  {
+    "codigo": "641",
+    "nombre": "Gobierno nacional",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "6411",
+    "nombre": "Impuesto a las transacciones financieras (ITF)",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "643",
+    "nombre": "Gobiernos locales",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "6431",
+    "nombre": "Arbitrios",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "6432",
+    "nombre": "Impuesto predial",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "65",
+    "nombre": "Otros gastos de gestiÃ³n",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "cuenta"
+  },
+  {
+    "codigo": "651",
+    "nombre": "Seguros",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "656",
+    "nombre": "Suministros consumidos",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "67",
+    "nombre": "Gastos financieros",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "cuenta"
+  },
+  {
+    "codigo": "671",
+    "nombre": "Gastos en operaciones de endeudamiento",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "673",
+    "nombre": "Intereses por prÃ©stamos y otras obligaciones",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "6731",
+    "nombre": "PrÃ©stamos de instituciones financieras",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "676",
+    "nombre": "Diferencia de cambio (pÃ©rdida)",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "68",
+    "nombre": "ValuaciÃ³n y deterioro de activos y provisiones",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "cuenta"
+  },
+  {
+    "codigo": "681",
+    "nombre": "DepreciaciÃ³n de propiedad, planta y equipo",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "6814",
+    "nombre": "DepreciaciÃ³n de propiedad, planta y equipo - Costo",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "68141",
+    "nombre": "Edificaciones",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "subdivisionaria"
+  },
+  {
+    "codigo": "68142",
+    "nombre": "Maquinarias y equipos de explotaciÃ³n",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "subdivisionaria"
+  },
+  {
+    "codigo": "68143",
+    "nombre": "Unidades de transporte",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "subdivisionaria"
+  },
+  {
+    "codigo": "68144",
+    "nombre": "Muebles y enseres",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "subdivisionaria"
+  },
+  {
+    "codigo": "68145",
+    "nombre": "Equipos diversos",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "subdivisionaria"
+  },
+  {
+    "codigo": "682",
+    "nombre": "AmortizaciÃ³n de activos intangibles",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "6821",
+    "nombre": "AmortizaciÃ³n de activos intangibles - Costo",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "68213",
+    "nombre": "Programas de computadora (software)",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "subdivisionaria"
+  },
+  {
+    "codigo": "69",
+    "nombre": "Costo de ventas",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "cuenta"
+  },
+  {
+    "codigo": "691",
+    "nombre": "MercaderÃ­as",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "6911",
+    "nombre": "MercaderÃ­as - ExportaciÃ³n",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "6912",
+    "nombre": "MercaderÃ­as - Mercado nacional",
+    "tipo_saldo": "deudor",
+    "elemento": 6,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "70",
+    "nombre": "Ventas",
+    "tipo_saldo": "acreedor",
+    "elemento": 7,
+    "categoria": "cuenta"
+  },
+  {
+    "codigo": "701",
+    "nombre": "MercaderÃ­as",
+    "tipo_saldo": "acreedor",
+    "elemento": 7,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "7011",
+    "nombre": "MercaderÃ­as - ExportaciÃ³n",
+    "tipo_saldo": "acreedor",
+    "elemento": 7,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "7012",
+    "nombre": "MercaderÃ­as - Mercado nacional",
+    "tipo_saldo": "acreedor",
+    "elemento": 7,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "704",
+    "nombre": "PrestaciÃ³n de servicios",
+    "tipo_saldo": "acreedor",
+    "elemento": 7,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "7041",
+    "nombre": "Servicios - Mercado nacional",
+    "tipo_saldo": "acreedor",
+    "elemento": 7,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "75",
+    "nombre": "Otros ingresos de gestiÃ³n",
+    "tipo_saldo": "acreedor",
+    "elemento": 7,
+    "categoria": "cuenta"
+  },
+  {
+    "codigo": "751",
+    "nombre": "Servicios en beneficio del personal",
+    "tipo_saldo": "acreedor",
+    "elemento": 7,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "754",
+    "nombre": "Alquileres",
+    "tipo_saldo": "acreedor",
+    "elemento": 7,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "77",
+    "nombre": "Ingresos financieros",
+    "tipo_saldo": "acreedor",
+    "elemento": 7,
+    "categoria": "cuenta"
+  },
+  {
+    "codigo": "772",
+    "nombre": "Rendimientos ganados",
+    "tipo_saldo": "acreedor",
+    "elemento": 7,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "7721",
+    "nombre": "DepÃ³sitos en instituciones financieras",
+    "tipo_saldo": "acreedor",
+    "elemento": 7,
+    "categoria": "divisionaria"
+  },
+  {
+    "codigo": "776",
+    "nombre": "Diferencia de cambio (ganancia)",
+    "tipo_saldo": "acreedor",
+    "elemento": 7,
+    "categoria": "subcuenta"
+  },
+  {
+    "codigo": "79",
+    "nombre": "Cargas imputables a cuentas de costos y gastos",
+    "tipo_saldo": "acreedor",
+    "elemento": 7,
+    "categoria": "cuenta"
+  },
+  {
+    "codigo": "791",
+    "nombre": "Cargas imputables a cuentas de costos y gastos",
+    "tipo_saldo": "acreedor",
+    "elemento": 7,
+    "categoria": "subcuenta"
+  }
+]
