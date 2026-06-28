@@ -12,20 +12,34 @@ from app.api.v1.api import api_router
 
 @asynccontextmanager
 async def lifespan(app: FastAPI):
-    """
-    Gestor de ciclo de vida de FastAPI blindado.
-    """
-    # 1. Intentar crear las tablas en PostgreSQL de forma directa
     try:
         init_db()
         print("¡Tablas de base de datos inicializadas en PostgreSQL con éxito!")
     except Exception as e:
-        print(f"Advertencia de conexión: {e}")
+        print(f"Advertencia de conexión: {str(e).encode('utf-8', errors='replace').decode('utf-8')}")
         print("Asegúrate de que PostgreSQL esté corriendo y configurado según tu archivo .env.")
 
-    # 2. Saltamos la siembra automática por ahora para que no explote con textos raros
-    print("Nota: Siembra automática pausada temporalmente para evitar problemas de tildes.")
+    # Siembra automática si la base está vacía
+    try:
+        from sqlmodel import Session, select
+        from app.models.cuenta import Cuenta
+        import json, os
+        with Session(engine) as session:
+            count = len(session.exec(select(Cuenta)).all())
+            if count == 0:
+                json_path = os.path.join(os.path.dirname(__file__), "data", "pcge_cuentas.json")
+                with open(json_path, "r", encoding="utf-8-sig") as f:
+                    cuentas = json.load(f)
+                for c in cuentas:
+                    session.add(Cuenta(**c))
+                session.commit()
+                print(f"Siembra automática: {len(cuentas)} cuentas cargadas.")
+            else:
+                print(f"Base de datos ya tiene {count} cuentas.")
+    except Exception as e:
+        print(f"Error en siembra: {e}")
 
+    print("Nota: Sistema listo.")
     yield
 
 # Inicializar FastAPI
