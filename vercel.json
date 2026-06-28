@@ -1,12 +1,6 @@
 ﻿{
-  "experimentalServices": {
-    "frontend": {
-      "root": "frontend",
-      "framework": "vite"
-    },
-    "backend": {
-      "root": "backend",
-      "framework": "fastapi"
-    }
-  }
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "installCommand": "npm install",
+  "framework": "vite"
 }
